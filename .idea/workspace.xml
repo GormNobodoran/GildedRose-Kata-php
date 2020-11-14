@@ -19,7 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af000c1a-5e8c-468b-a1bb-a0ebe5c24a3c" name="Default Changelist" comment="00 - Initial commit" />
+    <list default="true" id="af000c1a-5e8c-468b-a1bb-a0ebe5c24a3c" name="Default Changelist" comment="02 - Added Factory and child classes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/fixtures/texttest_fixture.php" beforeDir="false" afterPath="$PROJECT_DIR$/test/fixtures/texttest_fixture.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Domain/BackstagePass.php" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Domain/BackstagePass.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Domain/ItemFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/Domain/ItemFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/GildedRose.php" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/GildedRose.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/Item.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tests/GildedRoseTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/test/tests/GildedRoseTest.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -141,7 +149,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/src/Domain" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -151,7 +165,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605347976037</updated>
-      <workItem from="1605347978164" duration="1187000" />
+      <workItem from="1605347978164" duration="7719000" />
     </task>
     <task id="LOCAL-00001" summary="00 - Initial commit">
       <created>1605349133395</created>
@@ -160,7 +174,28 @@
       <option name="project" value="LOCAL" />
       <updated>1605349133395</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="00 - Initial commit">
+      <created>1605349216056</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605349216056</updated>
+    </task>
+    <task id="LOCAL-00003" summary="01 - Added value objects">
+      <created>1605358712001</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605358712001</updated>
+    </task>
+    <task id="LOCAL-00004" summary="02 - Added Factory and child classes">
+      <created>1605359714732</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605359714732</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,12 +214,26 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="00 - Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="00 - Initial commit" />
+    <MESSAGE value="01 - Added value objects" />
+    <MESSAGE value="02 - Added Factory and child classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="02 - Added Factory and child classes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="555" y="265" width="802" height="530" key="Vcs.Push.Dialog.v2" timestamp="1605348779997">
+    <state x="749" y="210" width="414" height="642" key="#com.intellij.ide.util.MemberChooser" timestamp="1605358907933">
       <screen x="0" y="0" width="1920" height="1056" />
     </state>
-    <state x="555" y="265" width="802" height="530" key="Vcs.Push.Dialog.v2/0.0.1920.1056@0.0.1920.1056" timestamp="1605348779997" />
+    <state x="749" y="210" width="414" height="642" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1056@0.0.1920.1056" timestamp="1605358907933" />
+    <state x="410" y="249" width="1091" height="563" key="NewPhpClassDialog" timestamp="1605359443121">
+      <screen x="0" y="0" width="1920" height="1056" />
+    </state>
+    <state x="410" y="249" width="1091" height="563" key="NewPhpClassDialog/0.0.1920.1056@0.0.1920.1056" timestamp="1605359443121" />
+    <state x="555" y="265" width="802" height="530" key="Vcs.Push.Dialog.v2" timestamp="1605349230910">
+      <screen x="0" y="0" width="1920" height="1056" />
+    </state>
+    <state x="555" y="265" width="802" height="530" key="Vcs.Push.Dialog.v2/0.0.1920.1056@0.0.1920.1056" timestamp="1605349230910" />
+    <state x="471" y="341" width="977" height="379" key="git4idea.ui.GitUnstashDialog" timestamp="1605349008008">
+      <screen x="0" y="0" width="1920" height="1056" />
+    </state>
+    <state x="471" y="341" width="977" height="379" key="git4idea.ui.GitUnstashDialog/0.0.1920.1056@0.0.1920.1056" timestamp="1605349008008" />
   </component>
 </project>
