@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af000c1a-5e8c-468b-a1bb-a0ebe5c24a3c" name="Default Changelist" comment="00 - Initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/test/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/test/vendor/composer" />
+      <path value="$PROJECT_DIR$/test/vendor/symplify/easy-coding-standard" />
+      <path value="$PROJECT_DIR$/test/vendor/delight-im/str" />
+      <path value="$PROJECT_DIR$/test/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/test/vendor/phpstan/phpstan" />
+      <path value="$PROJECT_DIR$/test/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/test/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/test/vendor/friendsofphp/php-cs-fixer" />
+      <path value="$PROJECT_DIR$/test/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/test/vendor/php-cs-fixer/diff" />
+      <path value="$PROJECT_DIR$/test/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/test/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/test/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/test/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/test/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/test/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/test/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/test/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/test/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/test/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/test/vendor/symplify/phpstan-extensions" />
+      <path value="$PROJECT_DIR$/test/vendor/symplify/package-builder" />
+      <path value="$PROJECT_DIR$/test/vendor/symplify/console-color-diff" />
+      <path value="$PROJECT_DIR$/test/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/test/vendor/symplify/parameter-name-guard" />
+      <path value="$PROJECT_DIR$/test/vendor/symplify/set-config-resolver" />
+      <path value="$PROJECT_DIR$/test/vendor/symplify/auto-bind-parameter" />
+      <path value="$PROJECT_DIR$/test/vendor/symplify/smart-file-system" />
+      <path value="$PROJECT_DIR$/test/vendor/symplify/autowire-array-parameter" />
+      <path value="$PROJECT_DIR$/test/vendor/symplify/coding-standard" />
+      <path value="$PROJECT_DIR$/test/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/test/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/test/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/test/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/test/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/test/vendor/jean85/pretty-package-versions" />
+      <path value="$PROJECT_DIR$/test/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/test/vendor/phpstan/phpstan-phpunit" />
+      <path value="$PROJECT_DIR$/test/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/test/vendor/approvals/approval-tests" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/test/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/test/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/test/vendor/nette/finder" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/test/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/test/vendor/nette/robot-loader" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/test/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/test/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/test/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/test/vendor/slevomat/coding-standard" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kHC8z3BZTNJGEOWqBa8flG9J2A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af000c1a-5e8c-468b-a1bb-a0ebe5c24a3c" name="Default Changelist" comment="" />
+      <created>1605347976037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605347976037</updated>
+      <workItem from="1605347978164" duration="1187000" />
+    </task>
+    <task id="LOCAL-00001" summary="00 - Initial commit">
+      <created>1605349133395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605349133395</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="00 - Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="00 - Initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="265" width="802" height="530" key="Vcs.Push.Dialog.v2" timestamp="1605348779997">
+      <screen x="0" y="0" width="1920" height="1056" />
+    </state>
+    <state x="555" y="265" width="802" height="530" key="Vcs.Push.Dialog.v2/0.0.1920.1056@0.0.1920.1056" timestamp="1605348779997" />
+  </component>
+</project>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/test/vendor/composer" />
+      <path value="$PROJECT_DIR$/test/vendor/symplify/easy-coding-standard" />
+      <path value="$PROJECT_DIR$/test/vendor/delight-im/str" />
+      <path value="$PROJECT_DIR$/test/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/test/vendor/phpstan/phpstan" />
+      <path value="$PROJECT_DIR$/test/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/test/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/test/vendor/friendsofphp/php-cs-fixer" />
+      <path value="$PROJECT_DIR$/test/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/test/vendor/php-cs-fixer/diff" />
+      <path value="$PROJECT_DIR$/test/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/test/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/test/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/test/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/test/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/test/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/test/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/test/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/test/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/test/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/test/vendor/symplify/phpstan-extensions" />
+      <path value="$PROJECT_DIR$/test/vendor/symplify/package-builder" />
+      <path value="$PROJECT_DIR$/test/vendor/symplify/console-color-diff" />
+      <path value="$PROJECT_DIR$/test/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/test/vendor/symplify/parameter-name-guard" />
+      <path value="$PROJECT_DIR$/test/vendor/symplify/set-config-resolver" />
+      <path value="$PROJECT_DIR$/test/vendor/symplify/auto-bind-parameter" />
+      <path value="$PROJECT_DIR$/test/vendor/symplify/smart-file-system" />
+      <path value="$PROJECT_DIR$/test/vendor/symplify/autowire-array-parameter" />
+      <path value="$PROJECT_DIR$/test/vendor/symplify/coding-standard" />
+      <path value="$PROJECT_DIR$/test/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/test/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/test/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/test/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/test/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/test/vendor/jean85/pretty-package-versions" />
+      <path value="$PROJECT_DIR$/test/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/test/vendor/phpstan/phpstan-phpunit" />
+      <path value="$PROJECT_DIR$/test/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/test/vendor/approvals/approval-tests" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/test/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/test/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/test/vendor/nette/finder" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/test/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/test/vendor/nette/robot-loader" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/test/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/test/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/test/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/test/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/test/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/test/vendor/slevomat/coding-standard" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/test/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
